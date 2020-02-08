@@ -1,0 +1,27 @@
+{
+  "name": "acs-utils",
+  "version": "1.0.0",
+  "description": "Some tools that are useful for running acsweb",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/uwaterlooacs/acs-utils.git"
+  },
+  "keywords": [
+    "acs",
+    "caribbean",
+    "association",
+    "student",
+    "uwaterloo",
+    "uw"
+  ],
+  "author": "Joshua Allum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uwaterlooacs/acs-utils/issues"
+  },
+  "homepage": "https://github.com/uwaterlooacs/acs-utils#readme"
+}
